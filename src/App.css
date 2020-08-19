@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.bgcolor {
+  background-color: red;
+  font-size: small;
+}
+.bgcolorch{
+  background-color:blue;
+  font-size:large;
+}
